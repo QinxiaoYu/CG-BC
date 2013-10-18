@@ -1,0 +1,19 @@
+Inst LB UB %Gap #cols %EF t(s) #nodes t(s) z^* T(s)
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst100_1.dat 2174.750000 2245.000000 3.129 346 78.283 0.400 Optimal 6 0.040 2186.000 0.440Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst100_2.dat 2674.000000 2674.000000 0.000 347 84.990 0.220 Optimal 0 0 2674.000 0.220
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst100_3.dat 2689.000000 2689.000000 -0.000 348 84.323 0.320 Optimal 0 0 2689.000 0.320
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst200_1.dat 2139.000000 2331.000000 8.237 671 71.799 6.350 Optimal 104 1.390 2141.000 7.740Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst200_2.dat 2469.857143 2731.000000 9.562 686 62.688 4.900 Optimal 31 0.720 2471.000 5.620Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst200_3.dat 2402.750000 2527.000000 4.917 690 77.799 2.600 Optimal 60 0.660 2405.000 3.260Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst300_1.dat 2460.000000 2570.000000 4.280 1036 80.279 14.430 Optimal 48 1.500 2462.000 15.930Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst300_2.dat 2312.000000 2411.000000 4.106 1023 82.247 37.400 Optimal 2 0.230 2312.000 37.630Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst300_3.dat 2583.857143 2898.000000 10.840 1042 59.755 23.840 Optimal 93 3.820 2585.000 27.660Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst400_1.dat 2815.000000 3256.000000 13.544 1387 48.774 101.120 Optimal 1678 67.980 2817.000 169.100Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst400_2.dat 2441.033898 2569.000000 4.981 1391 76.264 38.820 Optimal 1337 25.580 2443.000 64.400Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst400_3.dat 2387.000000 2387.000000 0.000 1380 92.100 55.480 Optimal 0 0 2387.000 55.480
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst500_1.dat 2595.625000 2602.000000 0.245 1728 89.511 170.970 Optimal 1039 25.770 2597.000 196.740Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst500_2.dat 2650.000000 2874.000000 7.794 1741 68.293 114.600 Optimal 1418 80.940 2652.000 195.540Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst500_3.dat 2591.851064 2669.000000 2.891 1728 82.832 112.140 Optimal 840 23.720 2593.000 135.860Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst600_1.dat 2819.520000 2833.000000 0.476 2101 87.662 366.340 Optimal 317 21.880 2820.000 388.220Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst600_2.dat 2659.667519 2885.000000 7.810 2036 69.945 437.590 Optimal 5218 357.730 2662.000 795.320Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/R123/R123_dcmst600_3.dat 2798.451613 2815.000000 0.588 2102 87.198 416.450 Optimal 1128 29.250 2800.000 445.700Optimal

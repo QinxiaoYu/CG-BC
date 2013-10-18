@@ -1,0 +1,29 @@
+import commands
+import os
+
+num_vertex = ["100", "200", "300", "400", "500", "600", "700"]
+degreesrange = ["2-3", "2-4", "2-5"]
+
+fo = open("LHEucresults.txt", "w");
+fo.write("Inst. LB UB %Gap #cols %EF T_{CG} #nodes T_{BC} z^* T(s)\n");
+fo.close();
+
+for nv in num_vertex:
+    for d in degreesrange:
+	inst = 'inst_euc_' + str(nv) + "_" + str(d) + "_1"
+	command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/LH/Euc/' + inst + " LHEucresults.txt" + " 2"
+	print command
+	print "\n"
+	os.system(command)
+
+fo = open("LHRandomresults.txt", "w");
+fo.write("Inst. LB UB %Gap #cols %EF T_{CG} #nodes T_{BC} z^* T(s)\n");
+fo.close();
+
+for nv in num_vertex:
+    for d in degreesrange:
+	inst = 'inst_noneuc_' + str(nv) + "_" + str(d) + "_1"
+	command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/LH/Random/' + inst + " LHRandomresults.txt" + " 2"
+	print command
+	print "\n"
+	os.system(command)

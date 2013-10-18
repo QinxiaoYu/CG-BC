@@ -1,0 +1,31 @@
+Inst LB UB %Gap #cols %EF t(s) #nodes t(s) z^* T(s)
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_100_3 11640.000000 11640.000000 0.000 558 84.121 1.560 Optimal 0 0 11640.000 1.560
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_100_4 11748.000000 11748.000000 0.000 451 82.081 0.960 Optimal 0 0 11748.000 0.960
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_100_5 12345.000000 12345.000000 0.000 511 75.374 1.480 Optimal 0 0 12345.000 1.480
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_200_3 15168.750000 15411.000000 1.572 1468 55.141 22.940 Optimal 3 0.700 15177.000 23.640Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_200_4 14671.000000 14671.000000 0.000 1025 81.392 13.870 Optimal 0 0 14671.000 13.870
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_200_5 14963.000000 14993.000000 0.200 1004 72.864 10.850 Optimal 2 0.090 14967.000 10.940Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_300_3 15661.714286 16098.000000 2.710 1234 41.195 26.520 Optimal 92 7.650 15691.000 34.170Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_300_4 19730.333333 20174.000000 2.199 2062 27.628 63.840 Optimal 3 4.100 19731.000 67.940Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_300_5 18492.000000 18492.000000 0.000 1820 78.582 46.370 Optimal 0 0 18492.000 46.370
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_400_3 20448.666667 20523.000000 0.362 2214 82.678 311.550 Optimal 20 13.060 20454.000 324.610Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_400_4 21005.000000 21005.000000 -0.000 2277 81.081 168.620 Optimal 0 0 21005.000 168.620
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_400_5 24907.000000 24971.000000 0.256 3940 71.274 335.140 Optimal 10 3.050 24911.000 338.190Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_500_3 20564.802083 20940.000000 1.792 2935 49.123 466.730 Optimal 572 79.130 20584.000 545.860Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_500_4 27118.500000 27124.000000 0.020 4490 81.565 897.600 Optimal 5 2.160 27124.000 899.760Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_500_5 27389.000000 27389.000000 -0.000 4627 77.952 812.510 Optimal 0 0 27389.000 812.510
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_600_3 24577.523810 24725.000000 0.596 7309 74.501 1888.930 Optimal 10 39.730 24583.000 1928.660Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_600_4 27141.000000 27141.000000 0.000 5086 81.519 1176.760 Optimal 0 0 27141.000 1176.760
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_600_5 24923.000000 24923.000000 -0.000 3734 78.556 739.190 Optimal 0 0 24923.000 739.190
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_700_3 26008.800000 26235.000000 0.862 7877 67.371 3091.760 Optimal 131 127.860 26024.000 3219.620Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_700_4 28587.666667 28740.000000 0.530 6856 71.359 3158.220 Optimal 7 27.430 28592.000 3185.650Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_700_5 31396.723214 31479.000000 0.261 7718 73.135 6471.640 Optimal 24 111.160 31402.000 6582.800Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_800_3 27426.083333 28329.000000 3.187 4351 2.556 3282.010 Optimal 449 1574.210 27433.000 4856.220Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_800_4 28376.968750 28757.000000 1.322 7605 48.197 5206.050 Optimal 1790 905.290 28399.000 6111.340Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_800_5 32249.357143 32421.000000 0.529 6487 66.824 6995.280 Optimal 42 104.510 32253.000 7099.790Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_900_3 29635.583333 31103.000000 4.718 8734 0.007 12200.550 Optimal 99 2192.690 30308.000 14393.240Feasible
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_900_4 34049.250000 34076.000000 0.079 12079 80.928 12348.700 Optimal 5 16.720 34054.000 12365.420Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_900_5 33350.000000 33374.000000 0.072 6028 77.100 7727.020 Optimal 4 14.750 33355.000 7741.770Optimal
+
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_1000_4 195418.380023 34666.000000 -463.718 11929 0.000 14421.090 Optimal 0 0 34666.000 14421.090
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Euc/inst_euc_1000_5 328970.972464 46461.000000 -608.058 16276 0.000 18858.850 Optimal 0 0 46461.000 18858.850

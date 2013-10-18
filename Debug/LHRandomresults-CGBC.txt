@@ -1,0 +1,26 @@
+Inst LB UB %Gap #cols %EF t(s) #nodes t(s) z^* T(s)
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_100_3 2143.600000 2496.000000 14.119 340 22.061 0.550 Optimal 33 0.280 2149.000 0.830Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_100_4 2327.000000 2327.000000 0.000 348 81.414 0.470 Optimal 0 0 2327.000 0.470
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_100_5 2416.500000 2428.000000 0.474 352 72.404 0.530 Optimal 4 0.030 2419.000 0.560Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_200_3 3106.000000 3180.000000 2.327 690 74.111 5.540 Optimal 249 1.940 3108.000 7.480Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_200_4 3144.000000 3144.000000 0.000 699 80.362 3.720 Optimal 0 0 3144.000 3.720
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_200_5 3335.000000 3337.000000 0.060 714 79.422 7.170 Optimal 19 0.420 3336.000 7.590Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_300_3 4110.000000 4110.000000 0.000 1048 86.905 12.120 Optimal 0 0 4110.000 12.120
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_300_4 4205.000000 4443.000000 5.357 1059 41.220 20.480 Optimal 33 5.370 4206.000 25.850Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_300_5 4342.000000 4342.000000 -0.000 1081 78.582 23.720 Optimal 0 0 4342.000 23.720
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_400_3 5114.057143 5630.000000 9.164 1395 0.000 160.840 Optimal 8150 440.510 5117.000 601.350Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_400_4 5232.500000 5540.000000 5.551 1414 30.805 188.940 Optimal 1939 122.510 5233.000 311.450Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_400_5 5354.600000 5446.000000 1.678 1452 63.934 230.360 Optimal 596 12.400 5356.000 242.760Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_500_3 5997.878788 6211.000000 3.431 1749 49.495 403.470 Optimal 4413 414.020 5999.000 817.490Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_500_4 6193.000000 6288.000000 1.511 1797 65.786 1057.160 Optimal 2206 104.180 6194.000 1161.340Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_500_5 6167.357143 6313.000000 2.307 1792 55.750 171.290 Optimal 1180 45.770 6168.000 217.060Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_600_3 6886.873239 7189.000000 4.203 2066 33.739 520.350 Optimal 2317 229.420 6888.000 749.770Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_600_4 7096.645963 7239.000000 1.966 2120 57.668 829.130 Optimal 17118 1172.410 7098.000 2001.540Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_600_5 7228.937500 7230.000000 0.015 2190 77.958 1379.310 Optimal 332 11.070 7230.000 1390.380Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_700_3 7885.631958 8314.000000 5.152 2414 11.062 1618.410 Optimal 8595 12429.350 7978.000 14047.760Feasible
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_700_5 8108.444444 8116.000000 0.093 2527 75.964 1973.810 Optimal 743 40.740 8109.000 2014.550Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_800_3 8854.360176 9114.000000 2.849 2806 41.574 6212.720 Optimal 2731 997.210 8855.000 7209.930Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_800_5 9110.521505 9283.000000 1.858 2905 51.073 5024.610 Optimal 10193 2843.640 9111.000 7868.250Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_900_3 10843.507457 10056.000000 -7.831 3155 40.223 14860.700 Optimal 0 0 10056.000 14860.700
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_900_4 9977.766667 10365.000000 3.736 3222 17.123 6968.890 Optimal 3830 7228.920 10193.000 14197.810Feasible
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/LH/Random/inst_noneuc_900_5 10024.352995 10030.000000 0.056 3234 78.292 7110.180 Optimal 16892 2037.160 10025.000 9147.340Optimal

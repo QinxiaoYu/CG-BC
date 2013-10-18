@@ -1,0 +1,70 @@
+import commands
+import os
+
+p = commands.getoutput('ls ~/Dropbox/Projeto/GC/allinstances/DE/');
+fo = open("DEresults.txt", "w");
+fo.write("LB UB %Gap #cols %EF T_{CG} #nodes T_{BC} z^* T(s)\n");
+fo.close();
+
+for nv in [100, 200, 300, 400, 500, 600]:
+    for num_inst in [1, 2, 3]:
+        inst = 'dcmst' + str(nv) + "_" + str(num_inst)
+        command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/DE/' + inst + ".dat" + " DEresults.txt" + " 2"
+        print command
+        print "\n"
+        os.system(command)
+
+
+p = commands.getoutput('ls ~/Dropbox/Projeto/GC/allinstances/ANDINST/');
+fo = open("ANDINSTresults.txt", "w");
+fo.write("LB UB %Gap #cols %EF T_{CG} #nodes T_{BC} z^* T(s)\n");
+fo.close();
+
+for nv in [100, 200, 300, 400]:
+    for num_inst in [1, 2, 3]:
+        inst = 'tb1ct' + str(nv) + "_" + str(num_inst)
+        command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/' + inst + ".txt" + " ANDINSTresults.txt" + " 1"
+        print command
+        print "\n"
+        os.system(command)
+
+for num_inst in [1, 2, 3]:
+    inst = 'tb2ct500_' + str(num_inst)
+    command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/' + inst + ".txt" + " ANDINSTresults.txt" + " 1"
+    print command
+    print "\n"
+    os.system(command)
+
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb2ct600_1.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb2ct700_1.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb2ct800_1.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb2ct900_1.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb3ct1000_1.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb3ct2000_1.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb3ct2000_2.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb3ct2000_3.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb3ct2000_4.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/ANDINST/tb3ct2000_5.txt' + " ANDINSTresults.txt" + " 1"
+os.system(command)
+
+p = commands.getoutput('ls ~/Dropbox/Projeto/GC/allinstances/R123/');
+fo = open("DRresults.txt", "w");
+fo.write("LB UB %Gap #cols %EF T_{CG} #nodes T_{BC} z^* T(s)\n");
+fo.close();
+
+for nv in [100, 200, 300, 400, 500, 600]:
+    for num_inst in [1, 2, 3]:
+        inst = 'R123_dcmst' + str(nv) + "_" + str(num_inst)
+        command =  './GC-arestas ~/Dropbox/Projeto/GC/allinstances/R123/' + inst + ".dat" + " DRresults.txt" + " 2"
+        print command
+        print "\n"
+        os.system(command)

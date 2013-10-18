@@ -1,0 +1,19 @@
+Inst LB UB %Gap #cols %EF t(s) #nodes t(s) z^* T(s)
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst100_1.dat 8779.000000 8779.000000 0.000 343 84.364 0.240 Optimal 0 0 8779.000 0.240
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst100_2.dat 9629.000000 9629.000000 0.000 413 85.091 0.670 Optimal 0 0 9629.000 0.670
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst100_3.dat 10791.500000 10798.000000 0.060 431 83.253 0.960 Optimal 1 0.020 10798.000 0.980Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst200_1.dat 12029.000000 12044.000000 0.125 689 88.859 4.510 Optimal 4 0.080 12031.000 4.590Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst200_2.dat 12617.875000 12768.000000 1.176 765 72.754 7.310 Optimal 85 2.150 12645.000 9.460Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst200_3.dat 12221.000000 12406.000000 1.491 720 71.487 8.000 Optimal 9 0.920 12229.000 8.920Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst300_1.dat 14778.125000 14860.000000 0.551 1230 85.061 34.700 Optimal 5 0.710 14792.000 35.410Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst300_2.dat 13922.000000 13931.000000 0.065 1019 90.720 12.280 Optimal 2 0.120 13931.000 12.400Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst300_3.dat 14973.956897 15264.000000 1.900 1144 60.486 34.220 Optimal 37 3.660 14997.000 37.880Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst400_1.dat 19239.000000 19239.000000 -0.000 2619 88.089 161.160 Optimal 0 0 19239.000 161.160
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst400_2.dat 17405.500000 17584.000000 1.015 1450 74.634 80.420 Optimal 113 8.430 17419.000 88.850Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst400_3.dat 16074.500000 16262.000000 1.153 1726 77.025 146.840 Optimal 76 9.960 16091.000 156.800Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst500_1.dat 19352.666667 19391.000000 0.198 2006 88.322 223.070 Optimal 2 2.030 19357.000 225.100Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst500_2.dat 22397.500000 22453.000000 0.247 3639 84.829 709.140 Optimal 2 3.050 22400.000 712.190Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst500_3.dat 19392.866026 19751.000000 1.813 1888 55.780 299.060 Optimal 376 39.510 19411.000 338.570Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst600_1.dat 21914.527778 22112.000000 0.893 2798 74.164 630.600 Optimal 541 99.510 21930.000 730.110Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst600_2.dat 21422.656746 21662.000000 1.105 2610 70.938 673.450 Optimal 261 88.220 21449.000 761.670Optimal
+/home/lapo/luishbicalho/Dropbox/DCMST/allinstances/DE/dcmst600_3.dat 22237.941176 22377.000000 0.621 3671 79.528 657.150 Optimal 3 13.500 22243.000 670.650Optimal
